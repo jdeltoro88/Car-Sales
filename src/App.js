@@ -9,6 +9,7 @@ import Total from './components/Total';
 import { addFeature } from './actions/addFeatures';
 import { removeFeature } from './actions/removeFeatures'
 
+ 
 const App = (props) => {
   
   return (
